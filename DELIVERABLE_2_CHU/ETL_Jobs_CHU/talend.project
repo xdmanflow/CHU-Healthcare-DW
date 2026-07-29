@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_RbIvEFmkEfGjyYjxQtFdtg" label="Projet_CHU" description="" language="java" technicalLabel="PROJET_CHU" local="true" author="_RbIvEVmkEfGjyYjxQtFdtg" productVersion="Talend Open Studio for Big Data-202511" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_RbfUYFmkEfGjyYjxQtFdtg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_RbIvEVmkEfGjyYjxQtFdtg" login="maxime.moysset@viacesi.fr" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
