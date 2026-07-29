@@ -142,16 +142,10 @@ Presentation of the decision-making system built for CHU, interpreting results t
 ## Project Structure
 
 ```
-chu-healthcare-data-warehouse/
-├── JETEmitters/               # Talend / JET custom emitter components
-├── BIG_DATA_PROJECT/         # Core project workspace
-├── DATA 2024/                 # Raw and source datasets
-├── IMPLEMENTATION/            # Physical implementation scripts (DDL, ETL, loading)
+healthcare-dw/
 ├── LIVRABLE_1_CHU/            # Deliverable 1 — Data repository & conceptual model
 ├── LIVRABLE_2_CHU/            # Deliverable 2 — Physical model & performance optimization
 ├── LIVRABLE_3_CHU/            # Deliverable 3 — Dashboard, results & storytelling
-├── build_docx_reports.py     # Script to auto-generate Word deliverable reports
-├── TOS_BD-win-x86_64.exe     # Talend Open Studio for Big Data (ETL tool)
 └── README.md
 ```
 
