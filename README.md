@@ -143,7 +143,7 @@ Presentation of the decision-making system built for CHU, interpreting results t
 
 ```
 Healthcare-DW/
-├── DELIVERABLE_1_CHU.pdf         # Deliverable 1 — Data repository & conceptual model
+├── DELIVERABLE_1_CHU/        c   # Deliverable 1 — Data repository & conceptual model
 ├── DELIVERABLE_2_CHU/            # Deliverable 2 — Physical model & performance optimization
 ├── DELIVERABLE_3_CHU/            # Deliverable 3 — Dashboard, results & storytelling
 └── README.md
