@@ -11,7 +11,7 @@ The project follows the full BI/Big Data lifecycle: architecture design → conc
 ## Objectives
 
 - Integrate distributed, heterogeneous medical data sources into a unified, persistent data warehouse
-- Model the key analytical subject areas (consultations, hospitalizations, deaths, satisfaction) as star/snowflake schemas
+- Model the key analytical subject areas (consultations, hospitalizations, deaths, satisfaction) 
 - Build and automate ETL jobs to feed the decision-making schema
 - Implement, populate, partition, and optimize the physical data model
 - Evaluate performance through query response-time benchmarking
