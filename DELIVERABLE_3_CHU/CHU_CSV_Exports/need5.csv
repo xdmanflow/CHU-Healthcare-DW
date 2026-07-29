@@ -1,0 +1,9 @@
+gender,age_group,total_hospitalizations
+female,0-17,275
+female,18-39,323
+female,40-64,345
+female,65+,480
+male,0-17,178
+male,18-39,256
+male,40-64,250
+male,65+,370
