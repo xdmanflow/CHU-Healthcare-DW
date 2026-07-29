@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_jYrr8V9FEfGhSfe_1IIwjA" name="iqss" dataPackage="_jYrr8l9FEfGhSfe_1IIwjA" Server="Localhost 127.0.0.1" FilePath="C:/Users/maxim/OneDrive/Documents/Cours A3/BigData/DATA 2024/Satisfaction/2020/resultats-iqss-open-data-2020.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_jYrr8l9FEfGhSfe_1IIwjA" name="default" dataManager="_jYrr8V9FEfGhSfe_1IIwjA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_jYrr819FEfGhSfe_1IIwjA" id="_e9hvQF9FEfGhSfe_1IIwjA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr9F9FEfGhSfe_1IIwjA" label="finess" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr9V9FEfGhSfe_1IIwjA" label="nom_ES" length="57" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr9l9FEfGhSfe_1IIwjA" label="region" length="48" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr919FEfGhSfe_1IIwjA" label="type" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr-F9FEfGhSfe_1IIwjA" label="ete_ortho_ratio_oe" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr-V9FEfGhSfe_1IIwjA" label="ete_ortho_alerte_sup" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr-l9FEfGhSfe_1IIwjA" label="ete_ortho_evol" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr-19FEfGhSfe_1IIwjA" label="iso_ortho_ratio_oe" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jYrr_F9FEfGhSfe_1IIwjA" label="iso_ortho_alerte_sup" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
