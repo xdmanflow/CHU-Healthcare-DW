@@ -178,4 +178,4 @@ This project was developed by the following team:
 
 ## License
 
-This project was developed as part of an academic Big Data / Business Intelligence course.
+Copyright © 2026 **CHU – Cloud Healthcare Unit**. All rights reserved. This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written consent from CHU – Cloud Healthcare Unit.
