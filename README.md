@@ -163,7 +163,7 @@ This project was developed by the following team:
 
 | Name | Role |
 |------|------|
-| [Your Name] | Developer |
+| Manil Doudou | Developer |
 | Maxime Moysset | Developer |
 | Youcef Djarir | Developer |
 
